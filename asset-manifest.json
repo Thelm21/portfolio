@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Thelm21/portfolio.git/static/css/main.d0c9b94e.css",
+    "main.js": "/Thelm21/portfolio.git/static/js/main.5c128e53.js",
+    "static/media/project-3.png": "/Thelm21/portfolio.git/static/media/project-3.d5bf2eac8c8937a85bc3.png",
+    "static/media/project-2.png": "/Thelm21/portfolio.git/static/media/project-2.2f15d9f817c3b4924ae6.png",
+    "static/media/project-1.png": "/Thelm21/portfolio.git/static/media/project-1.0009f408e02c21b12607.png",
+    "static/media/hero-img.svg": "/Thelm21/portfolio.git/static/media/hero-img.a27d8a4e65c54ec806566681fa79c920.svg",
+    "static/media/email.png": "/Thelm21/portfolio.git/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/checkmark.png": "/Thelm21/portfolio.git/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/arrow.png": "/Thelm21/portfolio.git/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/Thelm21/portfolio.git/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/Thelm21/portfolio.git/index.html",
+    "main.d0c9b94e.css.map": "/Thelm21/portfolio.git/static/css/main.d0c9b94e.css.map",
+    "main.5c128e53.js.map": "/Thelm21/portfolio.git/static/js/main.5c128e53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c9b94e.css",
+    "static/js/main.5c128e53.js"
+  ]
+}
